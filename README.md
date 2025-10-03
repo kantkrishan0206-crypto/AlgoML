@@ -121,39 +121,3 @@ python bot.py optimize --strategy MyStrategy
 Web UI: Manage trades, view logs, check portfolio.
 Telegram Bot: Start/stop trades, get profit/loss reports in real-time.
 
-📜 License
-This project is licensed under the MIT License.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-cd crypto-trading-bot
-docker-compose up -d
