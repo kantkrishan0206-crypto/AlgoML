@@ -2,9 +2,6 @@
 This repository contains implementations of machine learning algorithms and techniques applied to the domain of financial trading.
 🚀 Crypto Trading Bot:
 
-<p align="center">
-  <img src="https://via.placeholder.com/600x150.png?text=CRYPTO+TRADING+BOT" alt="Crypto Trading Bot Logo" width="600"/>
-</p>
 
 <h1 align="center">🚀 Crypto Trading Bot</h1>
 <p align="center">
