@@ -76,20 +76,19 @@ git clone https://github.com/YOUR_USERNAME/crypto-trading-bot.git
 
 📂 Project Structure:
 crypto-trading-bot/
-│── config/              # Exchange & strategy configs
-│── strategies/          # Custom trading strategies
-│── backtests/           # Backtesting data & results
-│── database/            # SQLite persistence
-│── web/                 # Web UI frontend
-│── bot.py               # Main entry point
-│── requirements.txt     # Dependencies
-│── docker-compose.yml   # Docker setup
-│── README.md            # Project documentation
+│── dev.container/              
+│── .github/          
+│── build helper/         
+│── config example/           
+│── docker/                 
+│── vscode/           
+│── README.md   
+│── LICENSE         
 
 
 🛠️ Installation (Manual):
 Clone the repo:
-git clone https://github.com/YOUR_USERNAME/crypto-trading-bot.git
+git clone https://github.com/kantkrishan0206-crypto/crypto-trading-bot.git
 cd crypto-trading-bot
 
 Create a virtual environment:
